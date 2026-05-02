@@ -1,0 +1,2 @@
+TOKEN = ' поставь свой token из телеграм пота' 
+DATABASE = "portfolio.db" # назови как хочешь
